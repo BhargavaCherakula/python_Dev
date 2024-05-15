@@ -1,2 +1,2 @@
 # python_Dev
-This repo is developed to understand the build python framework
+This project is developed to understand and build python framework.
